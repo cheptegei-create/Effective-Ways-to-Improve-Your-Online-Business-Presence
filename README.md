@@ -1,4 +1,4 @@
-# <Effective Ways to Improve Your Online Business Presence>
+# Effective Ways to Improve Your Online Business Presence
 
 ## Description
 
