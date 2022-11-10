@@ -6,9 +6,13 @@ Startup companies and SMEs are struggling in todays global market due to lack of
 
 ## Table of Contents
 
+- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+
+## Installation
+This website has no installation process, just vist https://cheptegei-create.github.io/challenge-1/
 
 ## Usage
 
@@ -16,7 +20,6 @@ The following image shows the web application's appearance and functionality:
     
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
   
-
 ## Credits
 Shout out to © 2022 edX Boot Camps LLC and Columbia University for providing the code that I used to polish the website appearance.
 
