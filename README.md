@@ -12,7 +12,7 @@ Startup companies and SMEs are struggling in todays global market due to lack of
 - [License](#license)
 
 ## Installation
-This website has no installation process, just visit https://cheptegei-create.github.io/challenge-1/
+This website has no installation process, just visit https://cheptegei-create.github.io/Effective-Ways-to-Improve-Your-Online-Business-Presence/
 
 ## Usage
 
